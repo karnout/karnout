@@ -1,0 +1,141 @@
+table
+{
+    border-collapse:collapse;
+
+}
+
+td , tr, th
+{
+    border:2px solid rgb(4, 10, 43);
+    font-family: sans-serif;    
+    text-align: center;
+}
+
+caption
+{
+    font-size: large;
+}
+
+
+th,#time
+
+{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color:brown;
+}
+
+
+td
+{
+    color: blue;
+    text-shadow: 1mm;
+
+}
+
+
+p
+
+{
+    font-weight:bold;
+    font-family:verdana;
+    font-size: 15px;
+}
+
+H2
+{
+    font-size: 25px;
+   font-family:verdana;
+   text-align: left;
+}
+
+
+
+
+th
+{
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+
+#p_p4
+
+{
+
+    font-size: 20px;
+    text-align: center;
+    color: red;
+
+}
+
+#h_p4
+{
+    font-size: 40px;
+    text-align: center; 
+}
+
+#h_p0
+{
+    font-size: 30px;
+    color: blue;  
+	text-align: center;
+}
+
+#h1_p1
+{
+    font-size: 28px;  
+    color: green;
+	text-align: center;
+
+}
+
+#h1_p2
+{
+    font-size: 25px;  
+    color: black;
+
+}
+
+#rr
+{
+    font-size: 15px;   
+}
+
+#h_p2
+{
+    color: brown;
+    font-size: 40px; 
+    text-align: center;
+}
+
+
+
+
+#h_p5
+{
+    text-align: center;
+    font-size: 25px;
+	color: green;
+}
+#h_p6
+{
+    text-align: center;
+    font-size: 24px;
+}
+
+#menu
+{
+    text-align: left;
+    font-size: 30px;   
+    font-family:verdana;
+    color: blueviolet;
+}
+
+/* Ajout pour agrandir le titre du formulaire */
+#form_title {
+    font-size: 20px; /* Taille de la police */
+    text-align: center; /* Centrer le texte */
+}
